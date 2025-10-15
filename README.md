@@ -2,6 +2,10 @@
 
 A conversational AI chat bot powered by Google's Gemini AI model, built with Streamlit and LangChain.
 
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/239498a3-002b-4b05-86ac-08aadae253c7
+
 ## Features
 
 - 💬 Natural conversation with AI
